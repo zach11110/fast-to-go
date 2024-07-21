@@ -1,0 +1,35 @@
+{
+    "newTrip":{
+        "en":{
+
+            "title":"new request",
+            "body":"you have a new request trip"
+        },
+        "ar":{
+            "title":"طلب جديد",
+            "body":"لديك طلب رحله جديد"
+        }
+    },
+    "accepted":{
+        "en":{
+            "title":"accept trip",
+            "body":"your trip has been accepted by some drivers"
+        },
+        "ar":{
+            "title":" قبول الرحله",
+            "body":" تم قبول رحلتك بواسطه احد السائقين"
+        }
+    },
+    "arrived":{
+        "en":{
+
+            "title":"driver arrived ",
+            "body":"The driver has reached the specified destination"
+        },
+        "ar":{
+            "title":"وصل السائق",
+            "body":"لقد وصل السائق إلى الوجه المحددة"
+        }
+        
+    }
+}

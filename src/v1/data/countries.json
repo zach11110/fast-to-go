@@ -1,0 +1,9 @@
+{
+  "minNSN": 9,
+  "maxNSN": 9,
+  "minICC": 4,
+  "maxICC": 4,
+  "minPhone": 13,
+  "maxPhone": 13,
+  "list": [{ "icc": "+218", "name": "Libya" }]
+}
